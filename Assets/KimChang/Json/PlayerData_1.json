@@ -1,0 +1,32 @@
+{
+    "id": 1,
+    "playerHealth": 3,
+    "playerMaxHealth": 3,
+    "playerEnergy": 0,
+    "maxEnergy": 100,
+    "playerDefense": 0.0,
+    "playerAttack": 6.0,
+    "speed": 10.0,
+    "items": [
+        {
+            "id": 3,
+            "name": "치유의 울림",
+            "type": "Bell",
+            "typeId": 1,
+            "effect": 1,
+            "usingId": 30,
+            "monsterId": -1,
+            "description": "에너지를 30 소모해, 3초간 [기도] 하며 체력을 회복할 수 있다."
+        }
+    ],
+    "equipItemId": 3,
+    "money": 0,
+    "selectType": 1,
+    "bgmVolume": 0.5,
+    "allVolume": 1.0,
+    "currentPortalId": -1,
+    "lastHitMonsterName": "",
+    "killMonsterIds": [
+        -10
+    ]
+}

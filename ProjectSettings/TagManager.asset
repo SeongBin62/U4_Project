@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Map
+  - Monster
+  - Wall
+  - MapPortal
+  - HolePortal
+  - Item
+  - Hole
+  - Ladder
+  - PlayerFeet
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Monster
+  - Player
+  - Hill
+  - Ladder
+  - Wall
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pet
+    uniqueID: 2180423245
+    locked: 0
+  - name: GateKeeper
+    uniqueID: 234799885
+    locked: 0
