@@ -34,15 +34,15 @@
 
 ### 플레이 화면
 
-![Screenshot_1](./Images/screenshot_1.png)
+![Screenshot_1](./Image/screenshot_1.png)
 
 ### 전투 장면
 
-![Screenshot_2](./Images/screenshot_2.png)
+![Screenshot_2](./Image/screenshot_2.png)
 
 ### UI 및 플레이 장면
 
-![Screenshot_3](./Images/screenshot_3.png)
+![Screenshot_3](./Image/screenshot_3.png)
 
 > ※ 실제 스크린샷 이미지로 교체 예정
 
@@ -57,6 +57,7 @@
 | 좌클릭 | 기본 공격 |
 | 우클릭 | 스킬 사용 |
 | G | 상호작용 |
+| I | 인벤토리 |
 
 ---
 
