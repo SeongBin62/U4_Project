@@ -32,15 +32,15 @@
 
 ## 📸 인게임 스크린샷
 
-### 플레이 화면
+### 타이틀 화면
 
 ![Screenshot_1](./Image/screenshot_1.png)
 
-### 전투 장면
+### UI 및 플레이 장면 1
 
 ![Screenshot_2](./Image/screenshot_2.png)
 
-### UI 및 플레이 장면
+### UI 및 플레이 장면 2
 
 ![Screenshot_3](./Image/screenshot_3.png)
 
