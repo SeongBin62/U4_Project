@@ -44,8 +44,6 @@
 
 ![Screenshot_3](./Image/screenshot_3.png)
 
-> ※ 실제 스크린샷 이미지로 교체 예정
-
 ---
 
 ## 🎮 조작 방식
@@ -66,6 +64,7 @@
 - Unity
 - C#
 - Git / GitHub
+- Notion
 
 ---
 
